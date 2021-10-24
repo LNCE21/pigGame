@@ -126,7 +126,6 @@ main {
 .btn::first-letter {
   font-size: 2.4rem;
   display: inline-block;
-  margin-right: 0.7rem;
 }
 
 .btn--new {
@@ -164,4 +163,10 @@ main {
 .player--winner .name {
   font-weight: 700;
   color: #c7365f;
+}
+
+
+/*Class to hide the dice*/
+.hidden {
+  display: none;
 }
