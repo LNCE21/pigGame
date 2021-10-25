@@ -15,5 +15,5 @@ Click the demo preview and it will take you to the game!
 <br>
 <br>
 <br>
-<a href="https://lnce21.github.io/pigGame/" target="_blank"> <img src="img/#" alt="Game Demo"/></a>
+<a href="https://lnce21.github.io/pigGame/" target="_blank"> <img src="img/pigGameGif.gif" alt="Game Demo"/></a>
 </p>
